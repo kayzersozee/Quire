@@ -1,4 +1,4 @@
-![Demo](https://repository-images.githubusercontent.com/305669788/28c47f80-6ac5-11eb-83e4-b9478b5606bd)
+![Demo](https://repository-images.githubusercontent.com/337350430/55789700-6ac5-11eb-99fc-af9b2cd155d5)
 
 <h2 align="center">Quire</h2>
   <h3 align="center">A webbased noteapp made by Team Ink, front end developer students @ KYH Stockholm</h3>
